@@ -10,6 +10,12 @@
 //   console.log(`Example app listening on port ${port}`)
 // })
 
+// ahasanhabibpolash420_db_user    real username: ahassh
+// WagW40aXjH4YK3HC
+
+// from  database access password : OBoveqdbY5xdq1ck
+// user: ahasshDBFirst
+
 const express = require("express");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 require("dotenv").config();
